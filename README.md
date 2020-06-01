@@ -1,6 +1,12 @@
 # PereApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This is the front-end part of Pere-Demo project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+
+## Back-end :
+In order to run this project successfully , you should run back-end application first ,
+then connect this application to the back-end ,
+`https://github.com/aboelsoud3/Pere-Spring-Demo`
+
 
 ## Development server
 
