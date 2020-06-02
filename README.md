@@ -9,8 +9,11 @@ then connect this application to the back-end ,
 
 
 ## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+in an empty folder or directory , open terminal or CMD and enter the following commands in sequance :
+1. `git clone --progress -v "https://github.com/aboelsoud3/Pere-Angular-Demo.git"`
+2. `cd Pere-Angular-Demo`
+3. `npm install`
+3. Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
