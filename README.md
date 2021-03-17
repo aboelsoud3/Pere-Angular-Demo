@@ -1,17 +1,17 @@
-# PereApp
+# AngularApp
 
-This is the front-end part of Pere-Demo project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This is the front-end part of Demo project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Back-end :
 In order to run this project successfully , you should run back-end application first ,
 then connect this application to the back-end ,
-`https://github.com/aboelsoud3/Pere-Spring-Demo`
+`https://github.com/aboelsoud3/Spring-Demo`
 
 
 ## Development server
 in an empty folder or directory , open terminal or CMD and enter the following commands in sequance :
-1. `git clone --progress -v "https://github.com/aboelsoud3/Pere-Angular-Demo.git"`
-2. `cd Pere-Angular-Demo`
+1. `git clone --progress -v "https://github.com/aboelsoud3/Angular-Demo.git"`
+2. `cd Angular-Demo`
 3. `npm install`
 3. Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
